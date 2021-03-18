@@ -1,0 +1,21 @@
+- Menu (new game e sair)
+if (new game) {inicia jogo}
+else if (sair) {fecha jogo}
+- New game: Gera a fase 1 a partir do 0, com personagem, pontos e inimigos resetados.
+- next level: Quando todos os inimigos forem morto, o level avança.
+- apos x levels, o jogo acabara, com a pontuação final e a maior pontuação entre as fases.
+- quando o jogo acabar, sera mostrado uma janela, com ele podendo escolher entre reiniciar, ir para o menu ou sair.
+/////////////////////////////////////////////////////////
+-----------------------Desenvolvimento-----------------------
+fazer os sprites
+fazer os estagios do jogo
+programar graficos
+programar os estagios
+programar sprites
+programar animações
+programar levels
+programar entidades
+///////////////////////////////////////////////////////////
+						Ja feitos
+ Tile
+ Sprites
